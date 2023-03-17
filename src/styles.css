@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: rgba(150, 142, 142, 0.348);
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: #800080;
+  /* text-align: center; */
+  display: inline-block;
+  text-align: center;
+  color: white;
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transition: all 0.2s;
+}
+p {
+  margin-top: 40px;
+}
